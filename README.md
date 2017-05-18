@@ -23,6 +23,7 @@ Other notes or comments:
 
 - "YOUR NOTES"
 
+-------------------------------------------------------------------------------------------------------------------------------
 
 When creating an post for an idea please use this template.
 
